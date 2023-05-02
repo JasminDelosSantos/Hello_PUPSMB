@@ -1,3 +1,3 @@
-# Hello, PUPSMB
+# Hello_PUPSMB
 
-This is my very first repository 
+This is my very first repository
